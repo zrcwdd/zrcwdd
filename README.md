@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zrcwdd
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on apps or games in swift
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on websites 
 - 📫 How to reach me zrcwdd@gmail.com (yes i still use emails)
 
 <!---
